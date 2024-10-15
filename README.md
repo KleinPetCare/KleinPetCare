@@ -1,5 +1,5 @@
 
-# Klein Pet Care 🐾
+# Experienced Pet Care Specialists 🐾
 
 Welcome to **Klein Pet Care** – Your pet’s happy place in Los Angeles!
 
