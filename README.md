@@ -1,5 +1,9 @@
 
 # Experienced Pet Care Specialists 🐾
+<div style="text-align: center; margin: 20px;">
+    <img src="https://github.com/user-attachments/assets/0eb12690-a333-4645-b3b3-2488c1e0079f" alt="Cropped - KPC Profile Pic" width="150">
+</div>
+
 
 Welcome to **Klein Pet Care** – Your pet’s happy place in Los Angeles!
 
