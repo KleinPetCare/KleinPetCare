@@ -38,6 +38,11 @@ For inquiries, please call or text.
 <img width="516" alt="Screenshot 2024-10-15 at 7 36 48 AM" src="https://github.com/user-attachments/assets/e1efaeba-462d-4579-af97-0e7260854823">
 <img width="520" alt="Screenshot 2024-10-15 at 7 36 28 AM" src="https://github.com/user-attachments/assets/af86cabd-a0b4-417d-910f-ee22cfe59e56">
 
+<h2>Payment Options</h2>
+<p>We accept the following payment methods:</p>
+<div style="text-align: center; margin: 20px 0;">
+    <img src="https://github.com/user-attachments/assets/4a85973d-6909-4f16-9415-02edc5c20d2a" alt="Payment Types" style="width: 50%; height: auto;">
+</div>
 
 
 ---
